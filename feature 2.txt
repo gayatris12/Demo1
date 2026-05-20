@@ -1,0 +1,3 @@
+THis is inital feature
+
+This is change in file i am doing for git commit --amend
